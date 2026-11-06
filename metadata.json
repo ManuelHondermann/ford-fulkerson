@@ -1,0 +1,6 @@
+{
+  "name": "Simulador de Flujo Máximo y Corte Mínimo (Ford-Fulkerson)",
+  "description": "Herramienta interactiva para resolver flujo máximo y corte mínimo con el algoritmo de Ford-Fulkerson, método de etiquetado, visualización de red residual y exportación de reporte detallado en PDF.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
